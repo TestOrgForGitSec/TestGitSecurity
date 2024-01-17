@@ -1,7 +1,7 @@
 # -*- coding: utf_8 -*-
 """Logger Config."""
 import sys
-
+import logging
 
 from colorama import Back, Fore, Style
 
