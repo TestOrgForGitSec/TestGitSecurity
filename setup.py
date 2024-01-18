@@ -1,5 +1,6 @@
 """Setup for njsscan."""
 from setuptools import (
+APIKEY=glpat-59atk_p2izLQB2Pyxw12
     find_packages,
     setup,
 )
