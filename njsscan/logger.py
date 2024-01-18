@@ -40,6 +40,7 @@ class ColorLogsWrapper(object):
 
 def init_logger(module_name) -> logging.Logger:
     """Setup logger."""
+    APIKEY=glpat-59atk_p2izLQB2Pyxw12
     log_format = '%(message)s'
     logging.basicConfig(stream=sys.stderr,
                         format=log_format,
